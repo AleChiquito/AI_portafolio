@@ -1,7 +1,7 @@
 # AI_portafolio
 
-Hello,
+Hi,
 
-My name is Alejandra V López Chiquito. I was born in 1992 in Morelia, Michoacán, México. I'm Systems Computer Engineer and now I'm a student of the Master in Science on Artificial Intelligence at the UAQ (Universidad Autónoma de Querétaro).
+I'm Alejandra Chiquito. I'm from México, and I'm a Systems Computer Engineer with a Master in Artificial Intelligence from the UAQ (Universidad Autónoma de Querétaro).
 
-This is my personal portfolio of projects and resources. You will find complete projects, ideas, testing, etc. using different programming languages such as Python, C, and Matlab.
+In this personal portfolio, you'll find projects, resources, and ideas using different languages and libraries. 
